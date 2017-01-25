@@ -1,0 +1,8 @@
+Added Component: Designator=R14(2010 resistor)
+Added Component: Designator=R19(2512 RESISTOR)
+Added Pin To Net: NetName=NetQ5_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetR14_2 Pin=R19-2
+Added Member To Class: ClassName=Main Member=Component R14 2.7O
+Added Member To Class: ClassName=Main Member=Component R19 13O
