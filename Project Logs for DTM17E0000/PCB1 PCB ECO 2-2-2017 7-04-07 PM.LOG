@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=Q2(SOT23)
+Added Component: Designator=Q3(SOT23)
+Added Component: Designator=Q4(SOT23)
+Added Component: Designator=Q8(SOT-23N)
+Added Component: Designator=Q9(SOT-23N)
+Added Component: Designator=R1(0603 resistor)
+Added Component: Designator=R2(0603 resistor)
+Added Component: Designator=R3(0603 resistor)
+Added Component: Designator=R4(0603 resistor)
+Added Component: Designator=R5(0603 resistor)
+Added Component: Designator=R6(0603 resistor)
+Added Component: Designator=R16(0603 Resistor)
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=VBAT Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q3-3
+Added Pin To Net: NetName=VBAT Pin=Q4-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q4-3
+Added Pin To Net: NetName=NetQ8_B Pin=Q8-B
+Added Pin To Net: NetName=NetQ3_2 Pin=Q8-C
+Added Pin To Net: NetName=NetQ2_3 Pin=Q8-E
+Added Pin To Net: NetName=NetQ9_B Pin=Q9-B
+Added Pin To Net: NetName=NetQ1_2 Pin=Q9-C
+Added Pin To Net: NetName=NetQ2_3 Pin=Q9-E
+Added Pin To Net: NetName=NetQ9_B Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=VBAT Pin=R2-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=R3-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R3-2
+Added Pin To Net: NetName=NetQ2_3 Pin=R4-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R4-2
+Added Pin To Net: NetName=VBAT Pin=R5-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R5-2
+Added Pin To Net: NetName=NetQ8_B Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetR15_2 Pin=R16-2
+Added Member To Class: ClassName=Main Member=Component Q1 MOSFET-P
+Added Member To Class: ClassName=Main Member=Component Q2 MOSFET-N
+Added Member To Class: ClassName=Main Member=Component Q3 MOSFET-N
+Added Member To Class: ClassName=Main Member=Component Q4 MOSFET-P
+Added Member To Class: ClassName=Main Member=Component Q8 MMST2222A
+Added Member To Class: ClassName=Main Member=Component Q9 MMST2222A
+Added Member To Class: ClassName=Main Member=Component R1 1K
+Added Member To Class: ClassName=Main Member=Component R2 1M
+Added Member To Class: ClassName=Main Member=Component R3 10M
+Added Member To Class: ClassName=Main Member=Component R4 10M
+Added Member To Class: ClassName=Main Member=Component R5 1M
+Added Member To Class: ClassName=Main Member=Component R6 1K
+Added Member To Class: ClassName=Main Member=Component R16 1MO
+Added Room: Name=Main
