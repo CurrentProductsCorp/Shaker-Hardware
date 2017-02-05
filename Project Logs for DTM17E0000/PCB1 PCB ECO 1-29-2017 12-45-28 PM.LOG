@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=VBAT Pin=P3-2
-Removed Pin From Net: NetName=GND Pin=P3-2
-Change Component Footprint: Designator=P1 Old Footprint=HDR1X2H New Footprint=Header 2
-Change Net Color : Old Net Color=None New Net Color=Default
-Added Member To Class: ClassName=Main Member=Component U3 TPS71533DCKR
