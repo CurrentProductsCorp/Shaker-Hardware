@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetR15_2 Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=R16-2
+Change Component Comment : Designator=R16 Old Comment=1.7KO New Comment=1MO
+Change Component Comment : Designator=R15 Old Comment=5K New Comment=330K
+Added Component: Designator=P1(HDR1X2H)
+Added Pin To Net: NetName=VBAT Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetR15_2 Pin=R16-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=None
+Added Member To Class: ClassName=Main Member=Component P1 Header 2H
