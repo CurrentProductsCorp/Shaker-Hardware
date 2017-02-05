@@ -1,0 +1,5 @@
+Added Component: Designator=R9(0603 Resistor)
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR8_2 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Member To Class: ClassName=Main Member=Component R9 1MO
