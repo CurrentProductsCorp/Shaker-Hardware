@@ -1,12 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of PCB Document [DTM17E0000.PcbDoc]
-   Generated File[DTM17E0000.RUL]
-   Generated File[DTM17E0000.EXTREP]
-   Generated File[DTM17E0000.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [DTM17E0000.PcbDoc]
+   Generated File[DTM17E0000.TXT]
+   Generated File[DTM17E0000.LDP]
+   Generated File[DTM17E0000.DRR]
 
 
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 6:53:57 AM On 2/13/2017
+Finished Output Generation At 12:07:22 PM On 2/13/2017
