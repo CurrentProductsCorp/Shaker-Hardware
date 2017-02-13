@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [DTM17E0000.PcbDoc]
+   Generated File[DTM17E0000.RUL]
+   Generated File[DTM17E0000.EXTREP]
+   Generated File[DTM17E0000.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:53:57 AM On 2/13/2017
