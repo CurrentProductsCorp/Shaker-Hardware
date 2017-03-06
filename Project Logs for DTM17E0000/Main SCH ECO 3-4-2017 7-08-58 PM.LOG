@@ -1,0 +1,5 @@
+Removed Parameter Cost:0.65 from Part P2
+Removed Parameter Manufacturer#:BH123A from Part P2
+Removed Parameter Manufacturer:Memory Protection Devices, Inc from Part P2
+Change Component Parameter Description in P2 Old=CR123A Battery Holder    Features reverse polarity protection New=
+Replace Symbol from P2 BH123A in H:\(1) Project\Workspaces\Shaker-Hardware\Main.SchDoc with BH123A from Curtis.SchLib

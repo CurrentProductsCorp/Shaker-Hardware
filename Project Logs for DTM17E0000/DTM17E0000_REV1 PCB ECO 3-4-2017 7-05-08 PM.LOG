@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetQ2_1 Pin=Q6-1
+Removed Pin From Net: NetName=NetQ6_2 Pin=Q6-2
+Removed Pin From Net: NetName=NetQ2_3 Pin=Q6-3
+Removed Pin From Net: NetName=NetQ3_1 Pin=Q7-1
+Removed Pin From Net: NetName=NetQ6_2 Pin=Q7-2
+Removed Pin From Net: NetName=NetQ3_3 Pin=Q7-3
+Removed Pin From Net: NetName=NetQ1_2 Pin=R1-1
+Change Component Description : Designator=Q6 Old Description=MOSFET N-CH 20V 2.3A SOT23 New Description=N-Channel MOSFET
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=Q7(SOT23)
+Added Component: Designator=R23(0603 resistor)
+Added Pin To Net: NetName=VBAT Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q6-1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-3
+Added Pin To Net: NetName=NetQ3_3 Pin=Q7-1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q7-2
+Added Pin To Net: NetName=NetQ6_2 Pin=Q7-3
+Added Pin To Net: NetName=NetQ1_2 Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=NetQ1_2 Pin=U2-31
+Change Net Name : Old Net Name=NetQ6_2 New Net Name=NetQ6_3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R1-1
+Added Net: Name=NetQ1_3
+Added Member To Class: ClassName=Main Member=Component Q1 MOSFET-N
+Added Member To Class: ClassName=Main Member=Component R23 1K
