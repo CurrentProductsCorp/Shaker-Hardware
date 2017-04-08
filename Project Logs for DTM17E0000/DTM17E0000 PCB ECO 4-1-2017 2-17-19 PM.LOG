@@ -1,0 +1,15 @@
+Change Physical Footprint: Designator=P2 Old Footprint=Mini USB New Footprint=Mini USB
+Change Physical Footprint: Designator=P3 Old Footprint=BH123A New Footprint=BH123A
+Change Physical Footprint: Designator=R1 Old Footprint=0603 resistor New Footprint=0603 resistor
+Change Physical Footprint: Designator=R2 Old Footprint=0603 resistor New Footprint=0603 resistor
+Change Physical Footprint: Designator=R3 Old Footprint=0603 resistor New Footprint=0603 resistor
+Change Physical Footprint: Designator=R4 Old Footprint=0603 resistor New Footprint=0603 resistor
+Change Physical Footprint: Designator=R5 Old Footprint=0603 resistor New Footprint=0603 resistor
+Change Physical Footprint: Designator=R6 Old Footprint=0603 resistor New Footprint=0603 resistor
+Change Physical Footprint: Designator=R8 Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=R9 Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=R10 Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=R11 Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=R12 Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=R16 Old Footprint=0603 resistor New Footprint=0603 resistor
+Change Physical Footprint: Designator=U2 Old Footprint=LIS2HH12 New Footprint=LIS2HH12
